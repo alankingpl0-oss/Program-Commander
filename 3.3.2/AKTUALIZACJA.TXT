@@ -1,0 +1,14 @@
+Witamy w Program Commanderze! Aktualna wersja to 3.3.2!
+
+CO NOWEGO W 3.3.2?
+
+- Dodano linijke, z aktualna sciezka, do katalogu, w ktorym sie znajdujesz.
+- Zmieniono domyslny kolor na: tlo niebieskie, tekst bialy. W kazdej chwili mozesz to zmienic.
+- Ulepszono funkcje Analiza folderu:
+ - Dodano mozliwosc zapisania raportu analizy do pliku raport_analizy
+ - Ulepszono dzialanie tej funkcji
+ - Teraz ta funkcja pokazuje wiecej informacji - waznych i mniej waznych.
+- Dodano funkcje nr 17: wyszukiwanie frazy w pliku TXT
+ - Mozna wpisac szukana fraze, trzeba dac chwile, az pomieli, i powinna pokazac sie sciezka do pliku TXT, w ktorym ta fraza wystapila, oraz powinna pokazac sie linijka
+ - Funkcja BETA, moze nie dzialac poprawnie.
+- Przygotowano srodowisko pod nastepna aktualizacje, ktora ma dodac funkcje nr 18, scalenia dwoch plikow TXT w jeden.
