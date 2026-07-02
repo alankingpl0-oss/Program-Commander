@@ -1,0 +1,13 @@
+PROGRAM COMMANDER
+Wersja 1.0!
+Co to PROGRAM COMMANDER? PCD (Program Commander) jest programem do łatwiejszego zarządzania plikami.
+Co robi program?
+W programie m. in. możemy dodawać pliki i katalogi (DIR), możemy zmieniać im nazwy. Usuwać nie możemy, w razie gdyby ktoś przez przypadek kliknął zły klawisz. W przyszłości będą najróżniejsze aktualizacje, ułatwiające korzystanie
+z programu. Program może działać stablinie.
+
+SUGESTIE:
+Jeśli masz jakieś sugestie, wejdź na stronę internetową www.alanking.pl i skontaktuj się ze mną przez formularz "Napisz do mnie" i wyślij tam swoją sugestię dotyczącą Program Commandera.
+
+
+
+© 2025

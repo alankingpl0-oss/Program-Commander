@@ -1,0 +1,12 @@
+Nowości – Program Commander (PCD)
+Wersja 1.0 (15.13.2025)
+
+CO NOWEGO:
+
+Historia działań: Rejestrowanie wszystkich wykonanych operacji (np. tworzenie katalogu, zmiana nazw).
+
+Możliwość wyczyszczenia historii działań.
+
+BEZPIECZEŃSTWO:
+
+Brak opcji usuwania plików/katalogów, aby uniknąć przypadkowych błędów.
