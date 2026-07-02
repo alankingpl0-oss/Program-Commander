@@ -1,0 +1,8 @@
+Zapisano kolor interfejsu: "07" (Data: 01.10.2025 Godzina: 13:09:40,10) 
+Zapisano kolor interfejsu: "CE" (Data: 01.10.2025 Godzina: 13:10:17,12) 
+Zapisano kolor interfejsu: "F0" (Data: 01.10.2025 Godzina: 13:10:34,20) 
+Zapisano kolor interfejsu: "EC" (Data: 01.10.2025 Godzina: 13:10:42,81) 
+Wyswietlono zawartosc katalogu a:\Programy\PCD-3_0 (Data: 01.10.2025 Godzina: 13:10:51,03) 
+Wyswietlono zawartosc katalogu a:\Programy\PCD-3_0 (Data: 01.10.2025 Godzina: 13:11:08,65) 
+Zapisano kolor interfejsu: EC (Data: 01.10.2025 Godzina: 17:20:04,22) 
+Zapisano kolor interfejsu: EC (Data: 01.10.2025 Godzina: 17:20:12,57) 
