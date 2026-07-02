@@ -1,0 +1,8 @@
+Program Commander.
+Aby wyczyscic historie wykonanych dzialan wejdź do menu glownego i wybierz funkcje nr 11.Zapisano kolor interfejsu: "F0" (Data: 19.03.2025 Godzina: 14:31:53,38) 
+Zapisano kolor interfejsu: "EC" (Data: 19.03.2025 Godzina: 14:32:07,90) 
+Zapisano kolor interfejsu: "ec" (Data: 25.03.2025 Godzina: 17:01:05,92) 
+Zapisano kolor interfejsu: "CE" (Data: 01.04.2025 Godzina: 15:03:26,14) 
+Zapisano kolor interfejsu: "EC" (Data: 06.04.2025 Godzina: 12:38:47,70) 
+Zapisano kolor interfejsu: "F0" (Data: 06.04.2025 Godzina: 12:38:49,94) 
+Zapisano kolor interfejsu: "CE" (Data: 06.04.2025 Godzina: 12:39:02,43) 

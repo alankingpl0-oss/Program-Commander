@@ -1,0 +1,23 @@
+PROGRAM COMMANDER
+WERSJA 3.0 - WERSJA OSTATECZNA
+AKTUALIZACJA Z DNIA 17.03.2025!
+ 
+================================================================= 
+TROCHE HISTORII 
+================================================================= 
+W programie dostepne jest 14 funkcje. Najroznejsze. Zamysl 
+programu jest taki, zeby urposcic zarzadzanie plikami na systemie 
+Windows 10 lub 11. Na poczatku PCD (Program Commander) mial byc 
+na system Dos (Disk operating system). Jednak wiecej ludzi uzywa 
+Windowsa. Z racji takiej program powstal na Windowsa. 
+=================================================================
+INSTRUCKJA
+=================================================================
+Program pozwala na robienie rzeczy miedzy innymi takich jak: 
+Zmienianie nazw plikow, 
+edytowanie plikow Txt, 
+przegladanie plikow Txt, 
+zobaczenie i wyczyszczenie historii wykonanych dzialan (jest to unikalna 
+funkcja programu).
+
+Wklepal Alan Makowski. (C) 2025 

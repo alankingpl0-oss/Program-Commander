@@ -1,0 +1,16 @@
+PROGRAM COMMANDER 
+Wersja 3.0 - Wersja ostateczna
+Aktualizacja z dnia 17.03.2025. 
+
+CO NOWEGO? 
+- Dodano opcje wyszukiwania plikow, 
+- dodano opcje analizowania katalogu, 
+- dodano opcje kompresowania do archiwum, 
+- dodano funkcje edytora tekstu w oknie Program Commandera, 
+- dodano opcje przegladania plikow tekstowych w konsoli PCD, 
+- dodano opcje przegladania plikow tekstowych w konsoli PCD, 
+- dodano opcje przegladania plikow tekstowych w konsoli PCD. 
+(C) 2025 
+
+
+Wklepal Alan Makowski
